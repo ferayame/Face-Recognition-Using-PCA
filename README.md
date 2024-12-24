@@ -5,4 +5,4 @@ This folder contains resources of Face Recognition Using PCA .
 
 Dataset associated with this tutorial can be found in face_data.csv file.
 
-The fully completed code can be found in face_recog_pca.ipynb file.
+The code can be found in face_recog_pca.ipynb file.
