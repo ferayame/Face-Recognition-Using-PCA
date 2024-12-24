@@ -3,6 +3,10 @@
 
 This folder contains resources of Face Recognition Using PCA .
 
-Dataset associated with this tutorial can be found in face_data.csv file.
+Dataset associated with this tutorial can be found in the `face_data.csv` file.
 
-The code can be found in face_recog_pca.ipynb file.
+The code for the face recognition using PCA can be found in the `face_recog_pca.ipynb` file.
+
+### Files 
+- [face_data.csv](https://github.com/ferayame/Face-Recognition-Using-PCA/blob/main/face_data.csv)
+- [face_recog_pca.ipynb](https://github.com/ferayame/Face-Recognition-Using-PCA/blob/main/face_recog_pca.ipynb)
